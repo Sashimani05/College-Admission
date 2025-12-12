@@ -1,0 +1,5 @@
+{
+  "name": "US College Admission Coach for UG",
+  "description": "An AI-powered coach providing detailed college admission requirements, cost of attendance, scholarships, and pre-med tracks for high school students. Enter a college name to get a comprehensive breakdown.",
+  "requestFramePermissions": []
+}
